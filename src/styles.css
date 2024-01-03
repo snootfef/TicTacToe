@@ -30,11 +30,14 @@ h4 {
 
 h5 {
   margin-top: 0;
+  margin-bottom: 0;
+  font-weight: normal;
   font-size: 14px;
 }
 
 h6 {
   margin-top: 0;
+  margin-bottom: 0;
   font-size: 12px;
 }
 
@@ -80,6 +83,7 @@ body {
 .status {
   margin-bottom: 10px;
 }
+
 .game {
   display: flex;
   flex-direction: row;
